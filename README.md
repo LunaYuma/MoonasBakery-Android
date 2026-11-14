@@ -247,7 +247,7 @@
 |:---:|---|
 | **1** | Install **Canvas** if you don't have it yet: grab `Canvas.apk` from [Canvas's releases](https://github.com/skyprotocol/canvas-distribution/releases/latest). |
 | **2** | Grab the newest **`libMoonasBakery-vX.X.X.so`** from the [Releases](../../releases/latest) page. |
-| **3** | Open Canvas, go to **Mod Manager**, tap **Add mod** and pick the `.so` file you downloaded. |
+| **3** | Open Canvas, go to **Mods**, tap **Add mod** and pick the `.so` file you downloaded. |
 | **4** | Tap **PLAY** in Canvas to start Sky. |
 | **5** | Tap the **croissant tab** on the edge of your screen to open the menu. |
 
